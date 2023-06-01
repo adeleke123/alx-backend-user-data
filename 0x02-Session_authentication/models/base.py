@@ -2,7 +2,7 @@
 """ Base module
 """
 from datetime import datetime
-from typing import List, TypeVar, Iterable
+from typing import TypeVar, List, Iterable
 from os import path
 import json
 import uuid
